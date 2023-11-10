@@ -8,7 +8,7 @@ Currently available Masscan versions:
 
 # How to use
 **1. Download the EXE file.**
-  - Masscan 1.3.2:
+  - Masscan 1.3.2: https://github.com/WalnutMusic740/Masscan-EXE-Files/blob/main/masscan.exe
 
 **2. Check functionality of the file (optional).**
   - Run `masscan --version` to check if the EXE file works correctly. The output should look similar to this:
