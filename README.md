@@ -37,27 +37,32 @@ CPU: unknown (64 bits)
 GIT version: unknown
 ```
 
-## Files information
+## Files informations
 
 **File name: masscan.exe**
-  - File size: 2300957 bytes
+  - File size: 2300957 bytes (2,194 MiB)
   - Modified: 12. 11. 2023 14:18:41
+  - Masscan 1.3.2 release date: 31. 1. 2021 (latest)
 
 **File name: masscan-1.3.1.exe**
-  - File size: 2153016 bytes
+  - File size: 2153016 bytes (2,053 MiB)
   - Modified: 12. 11. 2023 14:18:46
+  - Masscan 1.3.1 release date: 26. 1. 2021
 
 **File name: masscan-1.3.0.exe**
-  - File size: 2094110 bytes
+  - File size: 2094110 bytes (1,997 MiB)
   - Modified: 12. 11. 2023 14:18:42
+  - Masscan 1.3.0 release date: 9. 1. 2021
 
 **File name: masscan-1.0.5.exe**
-  - File size: 1633776 bytes
+  - File size: 1633776 bytes (1,558 MiB)
   - Modified: 12. 11. 2023 14:18:44
+  - Masscan 1.0.5 release date: 8. 3. 2018
 
 **File name: masscan-1.0.4.exe**
-  - File size: 1597664 bytes
+  - File size: 1597664 bytes (1,524 MiB)
   - Modified: 12. 11. 2023 14:18:46
+  - Masscan 1.0.4 release date: 6. 6. 2017
 
 **All files compiled using GCC 13.2.0**
 
