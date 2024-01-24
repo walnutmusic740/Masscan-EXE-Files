@@ -1,5 +1,7 @@
 # Masscan EXE Files
 
+**NEW REPOSITORY RELEASING SOON! (new description, more executables, compilation guide)**
+
 **All Masscan EXE Files for Windows in one place.**
 
 Masscan is an internet-scale port scanner. It can scan the entire internet in under 5 minutes by transmitting 10 million packets per second, from a single machine.
@@ -37,7 +39,7 @@ CPU: unknown (64 bits)
 GIT version: unknown
 ```
 
-## Files informations
+## Files information
 
 **File name: masscan.exe**
   - File size: 2300957 bytes (2,194 MiB)
