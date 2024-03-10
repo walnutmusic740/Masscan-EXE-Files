@@ -18,11 +18,11 @@ Currently available Masscan versions:
 
 # How to use
 **1. Download the EXE file.**
-  - Masscan 1.3.2 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/blob/main/masscan.exe
-  - Masscan 1.3.1 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/blob/main/masscan-1.3.1.exe
-  - Masscan 1.3.0 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/blob/main/masscan-1.3.0.exe
-  - Masscan 1.0.5 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/blob/main/masscan-1.0.5.exe
-  - Masscan 1.0.4 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/blob/main/masscan-1.0.4.exe
+  - Masscan 1.3.2 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/raw/main/masscan.exe
+  - Masscan 1.3.1 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/raw/main/masscan-1.3.1.exe
+  - Masscan 1.3.0 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/raw/main/masscan-1.3.0.exe
+  - Masscan 1.0.5 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/raw/main/masscan-1.0.5.exe
+  - Masscan 1.0.4 (updated on 12. 11. 2023): https://github.com/WalnutMusic740/Masscan-EXE-Files/raw/main/masscan-1.0.4.exe
 
 After downloading the EXE file you can basically start using it immediately.
 
